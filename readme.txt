@@ -61,7 +61,9 @@ This level was not made and is not supported by Looking Glass Studios or Eidos I
 
 All the people who believed in me and encouraged me to finish this project: First and foremost of all, Eli M. Special thanks to the very supportive goth gamers - Julian, Esdonto, Lor, Pat, and others who had kind words and encouragement to share when I had progress pics to show off. Thanks also to Maddie and Jeremy for encouraging me early on in the project's creation.
 
-Thanks to my beta testers! Julian (juuuulian#4482), Amorphous, Almaril, Elden Pubby, Onion, HardlyStellar, Nyalice, Shahrez Ali Shaban, Voyager and WaKa.
+Thanks to my beta testers! Julian, Amorphous, Almaril, Patera Bach, and Shahrez Ali Shaban.
+
+Thank you to my translators - Almaril, Truecrimecat, Denise B, Flipping Kenner, Julian, and Esdonto.
 
 Finally, thanks to TTLG, Looking Glass, my family, The Editor's Guild, Spike14 and Komag (for their tutorials), R Soul (for their Goalmaster tool), The Raven (for NewDark), and everyone else who has made suggestions for this mission or helped push the envelope to where Thief is today.
 Thief Is Art, don't let it die.
@@ -135,7 +137,7 @@ Ce niveau n'a pas été créé et n'est pas soutenu par Looking Glass Studios ou
 
 Toutes les personnes qui ont cru en moi et m'ont encouragé à terminer ce projet : Avant tout, Eli M. Remerciements spéciaux aux gamers goth qui m'ont beaucoup soutenu - Julian, Esdonto, Lor, Pat, et autres qui m'ont encouragé et m'ont complimenté lorsque j'avais des images à montrer. Merci également à Maddie et Jeremy de m'avoir encouragé au début de ce projet.
 
-Merci à mes beta testers ! Julian (juuuulian#4482), Amorphous, Almaril, Elden Pubby, Onion, HardlyStellar, Nyalice, Shahrez Ali Shaban, Voyager et WaKa.
+Merci à mes beta testers ! Julian, Amorphous, Almaril, Patera Bach, et Shahrez Ali Shaban. 
 
 Finalement, mes remerciements à TTLG, Looking Glass, ma famille, The Editor's Guild, Spike14 et Komag (pour leurs tutoriels), R Soul (pour son outil Goalmaster), The Raven (pour NewDark), et à tous les autres qui m'ont fait des suggestions pour cette mission ou ont aidé à faire de Thief le jeu qu'il est aujourd'hui.
 Thief est de l'Art, ne le laissons pas mourir.
@@ -208,7 +210,7 @@ Dieses Level wurde nicht erstellt von und wird nicht von Looking Glass Studios o
 
 Alle Menschen, die an mich geglaubt haben und mich ermutigt haben, dieses Projekt zu Ende zu bringen: Allen voran Eli M. Besonderer Dank geht an die sehr unterstützenden Goth-Gamer - Julian, Esdonto, Lor, Pat, und andere, die nette Worte und Ermutigung zu teilen hatten, als ich Fortschrittsbilder zum Vorzeigen hatte. Danke auch an Maddie und Jeremy, die mich schon früh bei der Erstellung des Projekts ermutigt haben.
 
-Danke an meine Beta-Tester! Julian (juuuulian#4482), Amorphous, Almaril, Elden Pubby, Onion, HardlyStellar, Nyalice, Shahrez Ali Shaban, Voyager and WaKa.
+Danke an meine Beta-Tester! Julian, Amorphous, Almaril, Patera Bach, Shahrez Ali Shaban.
 
 Schließlich danke ich TTLG, Looking Glass, meiner Familie, The Editor's Guild, Spike14 und Komag (für ihre Tutorials), R Soul (für ihr Goalmaster-Tool), The Raven (für NewDark) und allen anderen, die Vorschläge zu dem Auftrag gemacht haben oder dabei geholfen haben, Thief dahin zu bringen, wo es heute ist.
 Thief ist Kunst, lass es nicht sterben.
@@ -279,7 +281,7 @@ Thief ist Kunst, lass es nicht sterben.
 
 Выражаю благодарность всем, кто верил в меня и вдохновил закончить этот проект: Прежде всего, Eli M. Особая благодарность поддержавшим проект людям с дискорд-сервера GrimBeard-а - Julian, Esdonto, Lor, Pat,и другим, кто выражал тёплые слова поддержки, когда я хвасталась скриншотами прогресса. Также спасибо Maddie и Jeremy за то, что поддержали меня на раннем этапе создания проекта.
 
-Большое спасибо бета-тестерам! Julian (juuuulian#4482), Amorphous, Almaril, Elden Pubby, Onion, HardlyStellar, Nyalice, Shahrez Ali Shaban, Voyager и WaKa.
+Большое спасибо бета-тестерам! Julian, Amorphous, Almaril, Patera Bach, и Shahrez Ali Shaban.
 
 И наконец, спасибо TTLG, Looking Glass, моей семье, The Editor's Guild, Spike14 and Komag (за туторы), R Soul (за Goalmaster tool), The Raven (за NewDark), и всех, кто вносил идеи и предложения в процессе создания этой миссии и помогал выйти за рамки возможностей оригинальной игры.
 Thief - это искусство, не дайте ему умереть.
@@ -367,7 +369,7 @@ Looking Glass Studios y Eidos Interactive no hicieron ni apoyan este mapa.
 
 A todas las personas que creyeron en mi y me apoyaron e incentivaron a terminar este mapa: Primero que nadie, Eli M. Muchas gracias a Julian, Esdonto, Lor, Pat, y otrxs, que me apoyaron y felicitaron cuando compartí fotos del progreso de mi mapa. Gracias también a Maddie y Jeremy por apoyarme en las etapas iniciales del projecto.
 
-Gracias a mis beta testers! Julian (juuuulian#4482), Amorphous, Almaril, Elden Pubby, Onion, HardlyStellar, Nyalice, Shahrez Ali Shaban, Voyager y WaKa.
+Gracias a mis beta testers! Julian, Amorphous, Almaril, Patera Bach, y Shahrez Ali Shaban.
 
 Finalmente, gracias a TTLG, Looking Glass, mi familia, el Editor's Guild, Spike14 y a Komag (por sus tutoriales), R Soul (por su herramienta Goalmaster), The Raven (por NewDark), y a todx aquxl que ayudó dándome sugerencias e ideas para esta misión, y a la comunidad responsable por mantener Thief vivo.
 Thief Es Arte, no lo dejen morir.
@@ -443,7 +445,7 @@ Este nível não foi feito e não é apoiado por Looking Glass Studios nem Eidos
 
 Agradecimentos a todas as pessoas que acreditaram em mim e me encorarjaram a terminar esse projeto: Principalmente Eli M. Egradecimentos especiais aos meus gamers góticos - Julian, Esdonto, Lor, Pat, entre outros, pelas palavras simpáticas e pelo encorajamento todas as vezes que eu compartilhava minhas imagens de progresso. Obrigado também a Maddie e Jeremy pelo encorajamento no começo do projeto.
 
-Agradecimentos aos meus testadores beta! Julian (juuuulian#4482), Amorphous, Almaril, Elden Pubby, Onion, HardlyStellar, Nyalice, Shahrez Ali Shaban, Voyager and WaKa.
+Agradecimentos aos meus testadores beta! Julian, Amorphous, Almaril, Patera Bach, Shahrez Ali Shaban.
 
 Agradecimentos também a Esdonto por traduzir esse arquivo readme.
 
@@ -516,7 +518,7 @@ Thief É Arte, não deixe-o morrer.
 
 Висловлюю подяку всім, хто вірив у мене і надихнув закінчити цей проект: Перш за все, Eli M. Особлива подяка людям, які підтримали проект, з дискорд-сервера GrimBeard-а - Julian, Esdonto, Lor, Pat, та іншим, хто висловлював теплі слова підтримки, коли я хвалилася скріншотами прогресу. Також спасибі Maddie та Jeremy за те, що підтримали мене на ранньому етапі створення проекту.
 
-Дякую бета-тестерам! Julian (juuuulian#4482), Amorphous, Almaril, Elden Pubby, Onion, HardlyStellar, Nyalice, Shahrez Ali Shaban, Voyager та WaKa.
+Дякую бета-тестерам! Julian, Amorphous, Almaril, Patera Bach, та Shahrez Ali Shaban.
 
 І нарешті, дякую TTLG, Looking Glass, моїй сім'ї, The Editor's Guild, Spike14 and Komag (за тутори), R Soul (за Goalmaster tool), The Raven (за NewDark), і всіх, хто вносив ідеї та пропозиції в процесі створення цій місії і допомагав вийти за межі можливостей оригінальної гри.
 Thief – це мистецтво, не дайте йому померти.
